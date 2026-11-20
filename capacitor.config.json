@@ -1,0 +1,10 @@
+{
+  "appId": "com.ghpusher.app",
+  "appName": "GH Pusher",
+  "webDir": "www",
+  "backgroundColor": "#0b1220",
+  "android": {
+    "allowMixedContent": false,
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
